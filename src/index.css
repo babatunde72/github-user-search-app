@@ -1,2 +1,5 @@
 @import "tailwindcss";
 
+html {
+  font-family: "Space Mono", serif;
+}
