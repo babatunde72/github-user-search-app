@@ -4,7 +4,7 @@ import Header from './components/Header/header'
 
 function App() {
   return (
-    <div><Header /></div>
+    <div className='container mx-auto'><Header /></div>
   )
 }
 
